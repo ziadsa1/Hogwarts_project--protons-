@@ -1,4 +1,7 @@
-from clas import Magical_Creature,Wizard,MagicalContactBook
+from MagicalContact import MagicalContact
+from MagicalcontactBook import MagicalContactBook
+from MagicalCreature import Magical_Creature
+from Wizard import Wizard
 
 wand1 = {"core": "phoenix feather", "wood": "holly", "length": "11 inches"}
 wizard = Wizard("Harry Potter", "HarryPoter@gmail.com", "1234", "Gryffindor", wand1)
