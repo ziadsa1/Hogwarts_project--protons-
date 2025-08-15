@@ -9,6 +9,6 @@ Everything is Private , Only Teachers Can Access Their Data:
 
 
 
-=========IMPORTANT================
-  Don't Forget To leave 5 Stars
-================================
+=========IMPORTANT====================
+     Don't Forget To leave 5 Stars
+=====================================
