@@ -1,4 +1,3 @@
-c = 1
 class MagicalContact:
     def __init__(self,name,email,phone):
         self.__name = name
